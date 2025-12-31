@@ -13,7 +13,7 @@
 NGUYEN KIM NGUYEN <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 <br>
 #### About Me
-- 👨‍💻 As a **Software Engineer**, I specialize in building scalable systems, improving performance, and ensuring system stability. My experience spans across microservices, backend architecture, and cloud technologies.
+- 👨‍💻 Software Engineer at FPT Software with 4 years of experience – I specialize in building scalable systems, improving performance, and ensuring system stability. My experience spans across microservices, backend architecture, and cloud technologies.
 - 💬 I have a strong passion for **API integrations**, **frontend technologies**, and **databases**, making me a versatile engineer who loves solving complex problems.
 - 🌱 Currently, I’m exploring **[Node.js](https://nodejs.org/en/)** and **[C# (.NET)](https://learn.microsoft.com/en-us/dotnet/csharp/)** to enhance my backend skills and broaden my tech stack.
 
