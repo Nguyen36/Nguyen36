@@ -1,116 +1,87 @@
-<h2 align="center"><b>Hi, I'm NGUYEN KIM NGUYEN </b></h2>
-<br>
 
-##  **About Me**
 
-<p align="center">
-  <img src="https://github.com/Nguyen36/storage/blob/main/assets/about_me_v2.gif" width="600px">
-</p>
 
-<br>
 
-- Skilled in microservices, API integrations, improving system stability, and enabling scalable growth.
-- Passionate about cross-functional collaboration, continuous learning, and rapid adaptation to new technologies.
-
-<br><br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="coding" /><br><br>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"><b> Skills</b>
-<br>
+<p align="center"> <img src="https://github.com/Nguyen36/storage/blob/main/assets/about_me_v2.gif" width="600px"> </p>
 
 <p align="center">
-
-- **Languages & Frameworks**:  
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
-  ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)  
-  ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dot-net&logoColor=white)
-
-<br>
-
-- **Frontend**:  
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-<br>
-
-- **Database & Search**:  
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
-  ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)  
-  ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-
-<br>
-
-- **Methodologies**:  
-  ![Agile](https://img.shields.io/badge/Agile-F05032?style=for-the-badge&logo=agile&logoColor=white)  
-  ![Scrum](https://img.shields.io/badge/Scrum-6D2077?style=for-the-badge&logo=scrum&logoColor=white)
-
-<br>
-
-- **Tools & Software**:  
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-  ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
+  <a href="https://github.com/Nguyen36/" align="center" ><img align="center"  alt="" src="https://visitor-badge.laobi.icu/badge?page_id=Nguyen36.Nguyen36"></a>
 </p>
 
+---
+
+NGUYEN KIM NGUYEN <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 <br>
-<br>
+#### About Me
+- 👨‍💻 As a **Software Engineer**, I specialize in building scalable systems, improving performance, and ensuring system stability. My experience spans across microservices, backend architecture, and cloud technologies.
+- 💬 I have a strong passion for **API integrations**, **frontend technologies**, and **databases**, making me a versatile engineer who loves solving complex problems.
+- 🌱 Currently, I’m exploring **[Node.js](https://nodejs.org/en/)** and **[C# (.NET)](https://learn.microsoft.com/en-us/dotnet/csharp/)** to enhance my backend skills and broaden my tech stack.
 
------
+## 🛠 &nbsp;Tech Stack
 
-<br>
+#### 🔧 Languages & Frameworks
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Stats </b>
-<br>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dot-net&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
-<div align="center">
 
-<a href="https://github.com/Nguyen36">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nguyen36&title_color=44AEA9&icon_color=44AEA9&text_color=fffefe&bg_color=0F172A&&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nguyen36&layout=compact&langs_count=15&&title_color=44AEA9&icon_color=44AEA9&text_color=fffefe&bg_color=0F172A"/>
-</a>
+#### 🖥️ Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+#### 🛠️ Databases & Search
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+
+#### 🌩 **DevOps & Methodologies**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-333333?style=for-the-badge&logo=gitlab&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-F9A000?style=for-the-badge&logo=jenkins&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-FF4F00?style=for-the-badge&logo=circleci&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-F05032?style=for-the-badge&logo=agile&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-6D2077?style=for-the-badge&logo=scrum&logoColor=white)
 
 </div>
 
-<br><br><br>
+#### 🔗 Contact Me
 
------
-
-<br><br>
-
-## <b> Let's Connect..! </b>
-
-<br>
-
-<div align="left">
-
-<ul>
-
-<li>
-<a href="https://www.linkedin.com/in/nguyenkimnguyen" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-NguyenKimNguyen-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom:5px;"/>
-</a>
-</li>
-
-<br>
-
-
-
-<br>
-
-<li>
-<a href="mailto:n.kimnguyen67@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-n.kimnguyen67@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" style="margin-bottom:5px;"/>
-</a>
-</li>
-
-</ul>
-
+<div >
+<a href="mailto:n.kimnguyen67@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/nguyenkimnguyen/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
 
-<br>
+### 💳 Github Profile Summary Card
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="coding"/>
+ <div align=center>
+  
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nguyen36&theme=github_dark)
+  
+ </div>
 
-<br><br><br>
+ ### ⏱ Streak Stats
+
+ <div align=center>
+  
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nguyen36&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF)](https://git.io/streak-stats)
+
+ </div>
+
+### 📈 Activity Graph
+
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nguyen36&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
+---
+
+
+
