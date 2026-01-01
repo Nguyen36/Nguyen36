@@ -67,14 +67,15 @@ NGUYEN KIM NGUYEN <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/gip
   
  </div>
 
-
+## ✨ GitHub Stats
+ <div align=center>
+<img  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nguyen36&layout=compact&langs_count=15&&title_color=44AEA9&icon_color=44AEA9&text_color=fffefe&bg_color=0F172A&hide=css,html"/>
+ </div>
+ 
 ### 📈 Activity Graph
 
  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nguyen36&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
-
----
 
 
 
