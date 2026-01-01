@@ -52,7 +52,7 @@ NGUYEN KIM NGUYEN <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/gip
 
 </div>
 
-#### 🔗 Contact Me
+### 🔗 Contact Me
 
 <div >
 <a href="mailto:n.kimnguyen67@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -67,13 +67,6 @@ NGUYEN KIM NGUYEN <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/gip
   
  </div>
 
- ### ⏱ Streak Stats
-
- <div align=center>
-  
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nguyen36&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF)](https://git.io/streak-stats)
-
- </div>
 
 ### 📈 Activity Graph
 
